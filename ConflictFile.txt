@@ -1,1 +1,2 @@
 This file is for Merge Conflicts
+This line is for merge conflict from Git Side
