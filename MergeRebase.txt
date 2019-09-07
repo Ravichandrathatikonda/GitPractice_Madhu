@@ -1,6 +1,4 @@
 This is for Merge Concept
 This line is for Merge Commit in branch
-<<<<<<< HEAD
-=======
 Commit in Branch
->>>>>>> feature2
+Commit in Master
