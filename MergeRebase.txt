@@ -2,3 +2,4 @@ This is for Merge Concept
 This line is for Merge Commit in branch
 Commit in Branch
 Commit in Master
+Commit in Master for Rebase
